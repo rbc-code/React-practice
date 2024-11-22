@@ -1,0 +1,29 @@
+{
+  "Data": [
+    {
+      "id": "1",
+      "name": "Rb",
+      "city": "bhopal",
+      "fees": 67000
+    },
+    {
+      "id": "2",
+      "name": "Chauhan",
+      "city": "Indore",
+      "fees": 8900
+    },
+    {
+      "id": "3",
+      "name": "Raja",
+      "city": "Jhansi",
+      "fees": 78000
+    },
+    {
+      "id": "00f0",
+      "name": "Vikash",
+      "rollno": "126",
+      "city": "Kanpur",
+      "fees": "45000"
+    }
+  ]
+}
